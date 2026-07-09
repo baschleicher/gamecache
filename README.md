@@ -1,4 +1,4 @@
-# GameCache - View and filter your boardgame collection
+# GameCache - View and filter your boardgame collection - v2
 
 > [!WARNING]
 > Project renamed: This project was previously called "MyBGG" and is now "GameCache". Existing deployments using the old name continue to work (asset names and the CORS proxy remain compatible), but new forks should use the new name and paths shown below.
